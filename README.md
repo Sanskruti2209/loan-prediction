@@ -1,10 +1,9 @@
-#Loan Approval Prediction
+Loan Approval Prediction
 This project predicts loan approval using a Random Forest model and a Streamlit web application. It provides an interactive interface for users to input applicant details and view predictions with visualizations to understand the model's decision-making process.
 Files
 
 train_model.py: Script to train a Random Forest model on the Loan Prediction Problem Dataset and save it as loan_approval_model.pkl.
 app.py: Streamlit app for entering applicant details, predicting loan approval, and displaying visualizations.
-.gitignore: Excludes large files (loan_approval_model.pkl, train_u6lujuX_CVtuZ9i.csv) and Python cache/virtual environments.
 
 Prerequisites
 
